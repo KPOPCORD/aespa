@@ -29,6 +29,7 @@ linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [vlive_letter]
 title = "aespa ─ aespa Letter"
