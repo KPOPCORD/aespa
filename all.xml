@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 10:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 11:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25688968</link>
             <guid>https://vlive.tv/post/0-25688968</guid>
             <pubDate>Wed, 29 Sep 2021 10:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[13 minutes ago]]></content:encoded>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net//20210929_183/1632909452167SGAB5_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -98,7 +98,7 @@
             <link>https://www.vlive.tv/post/1-25690040</link>
             <guid>https://www.vlive.tv/post/1-25690040</guid>
             <pubDate>Wed, 29 Sep 2021 01:48:40 GMT</pubDate>
-            <content:encoded><![CDATA[9 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[10 hours ago]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📰 ‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최! (aespa ─ News)]]></title>
@@ -523,6 +523,14 @@
             <content:encoded><![CDATA[May 28]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’로 독보적 에너지 선사! (SMTOWN ─ aespa)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5463</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5463</guid>
+            <pubDate>Wed, 29 Sep 2021 11:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 독보적인 에너지를 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61543c6d58f8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘메타버스 걸그룹’ 에스파, 10월 5일 오후 8시 온라인 쇼케이스 개최! (SMTOWN ─ aespa)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5459</link>
             <guid>https://www.smtown.com/artist/newsDetail/5459</guid>
@@ -641,14 +649,6 @@
             <pubDate>Fri, 27 Aug 2021 17:56:18 GMT</pubDate>
             <content:encoded><![CDATA[SM 신인 걸그룹 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 타임지(TIME)와 롤링스톤(Rolling Stone)의 집중 조명을 받았다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202107/star_60deb94286dcc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘新 음원퀸’ 에스파 ‘Next Level’, 가온 스트리밍 차트도 1위! (SMTOWN ─ aespa)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5163</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5163</guid>
-            <pubDate>Fri, 27 Aug 2021 17:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 신곡 ‘Next Level’(넥스트 레벨)로 롱런 인기 행진을 이어가고 있다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202107/star_60dd402c9e52a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
