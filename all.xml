@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 03:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 04:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://vlive.tv/post/0-25688968</link>
             <guid>https://vlive.tv/post/0-25688968</guid>
             <pubDate>Wed, 29 Sep 2021 10:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[17 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[18 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net//20210929_183/1632909452167SGAB5_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -98,7 +98,7 @@
             <link>https://www.vlive.tv/post/1-25705255</link>
             <guid>https://www.vlive.tv/post/1-25705255</guid>
             <pubDate>Thu, 30 Sep 2021 00:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[2 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[3 hours ago]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[📰 ‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’로 독보적 에너지 선사! (aespa ─ News)]]></title>
@@ -522,6 +522,14 @@
             <content:encoded><![CDATA[May 28]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[첫 미니앨범 ‘Savage’, 에스파만의 영&파워풀 매력 예고! (SMTOWN ─ aespa)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5466</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5466</guid>
+            <pubDate>Thu, 30 Sep 2021 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 파워풀한 매력을 선사한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61552d2bb3086.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’로 독보적 에너지 선사! (SMTOWN ─ aespa)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5463</link>
             <guid>https://www.smtown.com/artist/newsDetail/5463</guid>
@@ -640,14 +648,6 @@
             <pubDate>Fri, 27 Aug 2021 17:56:18 GMT</pubDate>
             <content:encoded><![CDATA[‘레전드 감성 보컬리스트’ 강타(에스엠엔터테인먼트 소속)가 2021년 버전으로 새롭게 선보이는 ‘자유롭게 날 수 있도록 2021 (Free To Fly 2021)’을 7월 14일 공개한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202107/star_60ebba0605369.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 美 타임지-롤링스톤지 집중조명! (SMTOWN ─ aespa)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5167</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5167</guid>
-            <pubDate>Fri, 27 Aug 2021 17:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[SM 신인 걸그룹 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 타임지(TIME)와 롤링스톤(Rolling Stone)의 집중 조명을 받았다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202107/star_60deb94286dcc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
