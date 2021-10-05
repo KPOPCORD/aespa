@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 02:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 03:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -522,6 +522,22 @@
             <content:encoded><![CDATA[May 28]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘컴백 D-1’ 에스파 첫 미니앨범 ‘Savage’ MV 티저 공개 화제! (SMTOWN ─ aespa)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5477</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5477</guid>
+            <pubDate>Tue, 05 Oct 2021 03:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘SM 메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지) 뮤직비디오 티저 영상을 공개해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bc1961a6ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘컴백’ 에스파, 아이-에스파와 단체 티저 이미지 공개 화제! (SMTOWN ─ aespa)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5473</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5473</guid>
+            <pubDate>Tue, 05 Oct 2021 03:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 아이-에스파(ae-aespa)와의 단체 티저 이미지를 공개해 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615bbe247245a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 감성도 담았다! (SMTOWN ─ aespa)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5470</link>
             <guid>https://www.smtown.com/artist/newsDetail/5470</guid>
@@ -632,22 +648,6 @@
             <pubDate>Fri, 27 Aug 2021 17:56:18 GMT</pubDate>
             <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 최대 에이전시 Creative Artists Agency(이하 CAA)와 에이전시 계약을 체결했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202107/star_60fa68a1ed1d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 HOT하다! 7월 걸그룹 & 카리나 개인 브랜드평판 1위! (SMTOWN ─ aespa)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5221</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5221</guid>
-            <pubDate>Fri, 27 Aug 2021 17:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 7월 걸그룹 및 개인 브랜드평판 1위로 핫한 화제성을 입증했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202107/star_60f4f4cdca3a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강타, 리메이크 싱글 ‘자유롭게 날 수 있도록’ 오늘 오후 6시 공개! (SMTOWN ─ aespa)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5209</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5209</guid>
-            <pubDate>Fri, 27 Aug 2021 17:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[강타(에스엠엔터테인먼트 소속)가 2021년 버전으로 새롭게 선보이는 ‘자유롭게 날 수 있도록 2021 (Free To Fly 2021)’이 14일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202107/star_60ee602a53cfe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
