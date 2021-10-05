@@ -4,15 +4,23 @@
         <title>aespa ─ MY</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 12:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 13:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa 에스파 'Savage' Camerawork Guide for Creators]]></title>
+            <link>https://www.vlive.tv/post/1-25802046</link>
+            <guid>https://www.vlive.tv/post/1-25802046</guid>
+            <pubDate>Tue, 05 Oct 2021 13:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[17 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211005_289/16334371093907gfTt_JPEG/1633435613359.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' MV]]></title>
             <link>https://www.vlive.tv/post/1-25797989</link>
             <guid>https://www.vlive.tv/post/1-25797989</guid>
             <pubDate>Tue, 05 Oct 2021 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[3 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[4 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_27/1633421099029mmkgL_JPEG/1633419837363.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25647625</guid>
             <pubDate>Mon, 27 Sep 2021 09:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Sep 26]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210926_98/1632663221481sDIxU_JPEG/1632662399031.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - KARINA]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-23276233</guid>
             <pubDate>Mon, 27 Sep 2021 09:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Jun 3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📷 2021.05.30 #aespa #ONLINE 팬미팅 이벤트]]></title>
-            <link>https://www.vlive.tv/post/0-23202046</link>
-            <guid>https://www.vlive.tv/post/0-23202046</guid>
-            <pubDate>Mon, 27 Sep 2021 09:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[May 30]]></content:encoded>
         </item>
     </channel>
 </rss>
