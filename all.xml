@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 08:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 VIDEO CALL EVENT 안내 (aespa ─ Notice)]]></title>
+            <link>https://vlive.tv/post/0-25791202</link>
+            <guid>https://vlive.tv/post/0-25791202</guid>
+            <pubDate>Tue, 05 Oct 2021 09:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[9 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211005_277/1633424418082NOwxS_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 안내 (aespa ─ Notice)]]></title>
             <link>https://vlive.tv/post/0-25688968</link>
@@ -35,7 +43,6 @@
             <guid>https://vlive.tv/post/0-23103293</guid>
             <pubDate>Mon, 04 Oct 2021 15:10:06 GMT</pubDate>
             <content:encoded><![CDATA[May 25]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net//20210525_259/1621911664081NDyNb_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📢 ‘Next Level’ – 응원법 안내 (aespa ─ Notice)]]></title>
@@ -236,6 +243,14 @@
             <content:encoded><![CDATA[May 9]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[aespa 에스파 'Savage' MV (aespa ─ MY)]]></title>
+            <link>https://www.vlive.tv/post/1-25797989</link>
+            <guid>https://www.vlive.tv/post/1-25797989</guid>
+            <pubDate>Tue, 05 Oct 2021 09:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[9 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211005_27/1633421099029mmkgL_JPEG/1633419837363.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aespa 에스파 'Savage' MV Teaser (aespa ─ MY)]]></title>
             <link>https://www.vlive.tv/post/0-25764072</link>
             <guid>https://www.vlive.tv/post/0-25764072</guid>
@@ -257,7 +272,6 @@
             <guid>https://www.vlive.tv/post/0-25640634</guid>
             <pubDate>Mon, 27 Sep 2021 09:10:11 GMT</pubDate>
             <content:encoded><![CDATA[Sep 26]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210926_142/16326634107823Pbar_JPEG/1632662664753.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aespa 에스파 'Savage' SYNK DIVE Clip - NINGNING (aespa ─ MY)]]></title>
@@ -368,13 +382,6 @@
             <title><![CDATA[📷 2021.05.30 #aespa #ONLINE 팬미팅 이벤트 (aespa ─ MY)]]></title>
             <link>https://www.vlive.tv/post/0-23202046</link>
             <guid>https://www.vlive.tv/post/0-23202046</guid>
-            <pubDate>Mon, 27 Sep 2021 09:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[May 30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📷 2021.05.30 #aespa #인기가요 #Inkigayo (aespa ─ MY)]]></title>
-            <link>https://www.vlive.tv/post/1-23201689</link>
-            <guid>https://www.vlive.tv/post/1-23201689</guid>
             <pubDate>Mon, 27 Sep 2021 09:10:11 GMT</pubDate>
             <content:encoded><![CDATA[May 30]]></content:encoded>
         </item>

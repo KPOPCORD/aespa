@@ -4,9 +4,17 @@
         <title>aespa ─ Notice</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 08:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 VIDEO CALL EVENT 안내]]></title>
+            <link>https://vlive.tv/post/0-25791202</link>
+            <guid>https://vlive.tv/post/0-25791202</guid>
+            <pubDate>Tue, 05 Oct 2021 09:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[9 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211005_277/1633424418082NOwxS_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 안내]]></title>
             <link>https://vlive.tv/post/0-25688968</link>
@@ -35,7 +43,6 @@
             <guid>https://vlive.tv/post/0-23103293</guid>
             <pubDate>Mon, 04 Oct 2021 15:10:06 GMT</pubDate>
             <content:encoded><![CDATA[May 25]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net//20210525_259/1621911664081NDyNb_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📢 ‘Next Level’ – 응원법 안내]]></title>
