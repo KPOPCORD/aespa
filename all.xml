@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 03:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 추가 안내 (aespa ─ Notice)]]></title>
+            <link>https://vlive.tv/post/0-25817346</link>
+            <guid>https://vlive.tv/post/0-25817346</guid>
+            <pubDate>Thu, 07 Oct 2021 04:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[54 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net//20211007_154/16335766717072ILir_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 VIDEO CALL EVENT 추가 안내 (aespa ─ Notice)]]></title>
             <link>https://vlive.tv/post/1-25825073</link>
             <guid>https://vlive.tv/post/1-25825073</guid>
             <pubDate>Thu, 07 Oct 2021 03:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[6 minutes ago]]></content:encoded>
+            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net//20211007_231/1633575840586vqGMD_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-25791202</guid>
             <pubDate>Wed, 06 Oct 2021 23:09:39 GMT</pubDate>
             <content:encoded><![CDATA[Oct 5]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net//20211005_277/1633424418082NOwxS_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 안내 (aespa ─ Notice)]]></title>
@@ -544,6 +551,14 @@
             <content:encoded><![CDATA[May 28]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 음원 이어 음반 차트도 접수 완료! (SMTOWN ─ aespa)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5492</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5492</guid>
+            <pubDate>Thu, 07 Oct 2021 04:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 음반 차트까지 접수했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615e65832467f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벌써 시작된 ‘Savage’ 신드롬, 에스파 3연속 히트 성공! (SMTOWN ─ aespa)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5484</link>
             <guid>https://www.smtown.com/artist/newsDetail/5484</guid>
@@ -662,14 +677,6 @@
             <pubDate>Wed, 06 Oct 2021 23:10:15 GMT</pubDate>
             <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)의 ‘Next Level’(넥스트 레벨) 리믹스 버전이 오는 14일 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae6c873d43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 광고계에서도 대세 행보 ing! 최고의 블루칩! (SMTOWN ─ aespa)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5357</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5357</guid>
-            <pubDate>Wed, 06 Oct 2021 23:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[‘글로벌 대세’ 에스파가 가요계에 이어 광고계에서도 블루칩으로 급부상 중이다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202108/star_61273fb10b3d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
