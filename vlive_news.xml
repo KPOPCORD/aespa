@@ -4,9 +4,17 @@
         <title>aespa ─ News</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 23:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 00:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📰 에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신!]]></title>
+            <link>https://www.vlive.tv/post/0-25831013</link>
+            <guid>https://www.vlive.tv/post/0-25831013</guid>
+            <pubDate>Fri, 08 Oct 2021 00:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[32 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211008_152/1633651283001sfTL7_JPEG/IMG_5391.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📰 첫 미니앨범 ‘Savage’, 에스파만의 영&파워풀 매력 예고!]]></title>
             <link>https://www.vlive.tv/post/1-25705255</link>
@@ -35,7 +43,6 @@
             <guid>https://www.vlive.tv/post/0-25456787</guid>
             <pubDate>Thu, 07 Oct 2021 06:11:41 GMT</pubDate>
             <content:encoded><![CDATA[Sep 17]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210917_234/1631838668876d8wfa_JPEG/vlive_photo_1631788644134.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[📰 ‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매!]]></title>
@@ -141,13 +148,6 @@
             <guid>https://www.vlive.tv/post/0-22811767</guid>
             <pubDate>Thu, 07 Oct 2021 06:11:41 GMT</pubDate>
             <content:encoded><![CDATA[May 10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📰 ‘컴백’ 에스파 지젤, 유니크한 매력 발산!]]></title>
-            <link>https://www.vlive.tv/post/0-22789737</link>
-            <guid>https://www.vlive.tv/post/0-22789737</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[May 9]]></content:encoded>
         </item>
     </channel>
 </rss>
