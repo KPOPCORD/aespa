@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 02:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 03:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://vlive.tv/post/1-25825073</link>
             <guid>https://vlive.tv/post/1-25825073</guid>
             <pubDate>Thu, 07 Oct 2021 10:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[23 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[Oct 7]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net//20211007_231/1633575840586vqGMD_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -127,7 +127,7 @@
             <link>https://www.vlive.tv/post/0-25831013</link>
             <guid>https://www.vlive.tv/post/0-25831013</guid>
             <pubDate>Fri, 08 Oct 2021 00:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[2 hours ago]]></content:encoded>
+            <content:encoded><![CDATA[3 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211008_152/1633651283001sfTL7_JPEG/IMG_5391.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -551,6 +551,14 @@
             <content:encoded><![CDATA[May 28]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신! (SMTOWN ─ aespa)]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5498</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5498</guid>
+            <pubDate>Fri, 08 Oct 2021 03:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 첫 미니앨범 ‘Savage’(새비지) 뮤직비디오가 유튜브 조회수 5천만 뷰를 돌파했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_615fb40daf652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘메타버스 걸그룹’ 에스파, 음원 이어 음반 차트도 접수 완료! (SMTOWN ─ aespa)]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5492</link>
             <guid>https://www.smtown.com/artist/newsDetail/5492</guid>
@@ -669,14 +677,6 @@
             <pubDate>Thu, 07 Oct 2021 10:11:18 GMT</pubDate>
             <content:encoded><![CDATA[‘글로벌 대세’ 에스파(aespa, 에스엠엔터테인먼트)가 10월 5일 첫 미니앨범 ‘Savage’(새비지)로 전격 컴백한다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614034c8eba49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘iScreaM’ 프로젝트, 에스파 ‘Next Level’ 리믹스 싱글 14일 공개! (SMTOWN ─ aespa)]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5400</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5400</guid>
-            <pubDate>Thu, 07 Oct 2021 10:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)의 ‘Next Level’(넥스트 레벨) 리믹스 버전이 오는 14일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_613ae6c873d43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
