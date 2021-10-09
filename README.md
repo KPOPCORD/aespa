@@ -5,4 +5,4 @@
 - https://kpopcord.github.io/aespa/vlive_letter.xml
 
 ## SMTOWN ARTIST NEWS
-https://kpopcord.github.io/aespa/smtown_news.xml
+- https://kpopcord.github.io/aespa/smtown_news.xml
