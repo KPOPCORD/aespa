@@ -1,126 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>aespa ─ Notice</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 07:10:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 추가 안내]]></title>
-            <link>https://vlive.tv/post/0-25817346</link>
-            <guid>https://vlive.tv/post/0-25817346</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Oct 7]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net//20211007_154/16335766717072ILir_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 VIDEO CALL EVENT 추가 안내]]></title>
-            <link>https://vlive.tv/post/1-25825073</link>
-            <guid>https://vlive.tv/post/1-25825073</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Oct 7]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net//20211007_231/1633575840586vqGMD_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📢 ‘Savage’ – 응원법 안내]]></title>
-            <link>https://vlive.tv/post/0-25791374</link>
-            <guid>https://vlive.tv/post/0-25791374</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Oct 5]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net//20211005_33/1633425085354WkEHh_JPEG/%C0%C0%BF%F8%B9%FD.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 VIDEO CALL EVENT 안내]]></title>
-            <link>https://vlive.tv/post/0-25791202</link>
-            <guid>https://vlive.tv/post/0-25791202</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Oct 5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 안내]]></title>
-            <link>https://vlive.tv/post/0-25688968</link>
-            <guid>https://vlive.tv/post/0-25688968</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Sep 29]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 2021 DREAM CONCERT 현수막 신청 안내]]></title>
-            <link>https://vlive.tv/post/0-23589343</link>
-            <guid>https://vlive.tv/post/0-23589343</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 18]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 aespa 활동 스케줄 서포트 및 생일 선물 관련 안내]]></title>
-            <link>https://vlive.tv/post/1-23128956</link>
-            <guid>https://vlive.tv/post/1-23128956</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[May 26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 aespa 'Next Level' 음원 발매 기념 ONLINE FANMEETING EVENT 추가 안내]]></title>
-            <link>https://vlive.tv/post/0-23103293</link>
-            <guid>https://vlive.tv/post/0-23103293</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[May 25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 ‘Next Level’ – 응원법 안내]]></title>
-            <link>https://vlive.tv/post/0-22932913</link>
-            <guid>https://vlive.tv/post/0-22932913</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[May 17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 aespa 'Next Level' 음원 발매 기념 ONLINE FANMEETING EVENT 안내]]></title>
-            <link>https://vlive.tv/post/1-22933234</link>
-            <guid>https://vlive.tv/post/1-22933234</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[May 17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 Next Level of aespa & MY]]></title>
-            <link>https://vlive.tv/post/1-22833282</link>
-            <guid>https://vlive.tv/post/1-22833282</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[May 11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 aespa 'Black Mamba' 스페셜 안무영상 컨셉 투표 안내]]></title>
-            <link>https://vlive.tv/post/0-20723786</link>
-            <guid>https://vlive.tv/post/0-20723786</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Jan 5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 'Black Mamba' - 'THE SHOW' 1위 투표 안내]]></title>
-            <link>https://vlive.tv/post/1-20298706</link>
-            <guid>https://vlive.tv/post/1-20298706</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Dec 8, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[📢 ‘Black Mamba’ – 응원법 안내]]></title>
-            <link>https://vlive.tv/post/0-19994235</link>
-            <guid>https://vlive.tv/post/0-19994235</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Nov 20, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공지] aespa OFFICIAL FANCLUB “MY(마이)” 모집 안내]]></title>
-            <link>https://vlive.tv/post/1-19947498</link>
-            <guid>https://vlive.tv/post/1-19947498</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Nov 16, 2020]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공지] aespa OFFICIAL FANCLUB “MY(마이)” 오픈 안내]]></title>
-            <link>https://vlive.tv/post/1-19946585</link>
-            <guid>https://vlive.tv/post/1-19946585</guid>
-            <pubDate>Thu, 07 Oct 2021 06:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Nov 16, 2020]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vlive.tv/channel/97CCED/board/7374</id>
+    <title>aespa ─ Notice</title>
+    <updated>2021-10-09T07:20:33.827Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 추가 안내]]></title>
+        <id>https://vlive.tv/post/0-25817346</id>
+        <link href="https://vlive.tv/post/0-25817346"/>
+        <updated>2021-10-07T06:11:32.056Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 VIDEO CALL EVENT 추가 안내]]></title>
+        <id>https://vlive.tv/post/1-25825073</id>
+        <link href="https://vlive.tv/post/1-25825073"/>
+        <updated>2021-10-07T06:11:32.058Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 ‘Savage’ – 응원법 안내]]></title>
+        <id>https://vlive.tv/post/0-25791374</id>
+        <link href="https://vlive.tv/post/0-25791374"/>
+        <updated>2021-10-07T06:11:32.058Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 VIDEO CALL EVENT 안내]]></title>
+        <id>https://vlive.tv/post/0-25791202</id>
+        <link href="https://vlive.tv/post/0-25791202"/>
+        <updated>2021-10-07T06:11:32.002Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa The 1st Mini Album [Savage] 발매 기념 POLAROID EVENT 안내]]></title>
+        <id>https://vlive.tv/post/0-25688968</id>
+        <link href="https://vlive.tv/post/0-25688968"/>
+        <updated>2021-10-07T06:11:32.005Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 2021 DREAM CONCERT 현수막 신청 안내]]></title>
+        <id>https://vlive.tv/post/0-23589343</id>
+        <link href="https://vlive.tv/post/0-23589343"/>
+        <updated>2021-10-07T06:11:32.021Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa 활동 스케줄 서포트 및 생일 선물 관련 안내]]></title>
+        <id>https://vlive.tv/post/1-23128956</id>
+        <link href="https://vlive.tv/post/1-23128956"/>
+        <updated>2021-10-07T06:11:32.026Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa 'Next Level' 음원 발매 기념 ONLINE FANMEETING EVENT 추가 안내]]></title>
+        <id>https://vlive.tv/post/0-23103293</id>
+        <link href="https://vlive.tv/post/0-23103293"/>
+        <updated>2021-10-07T06:11:32.027Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 ‘Next Level’ – 응원법 안내]]></title>
+        <id>https://vlive.tv/post/0-22932913</id>
+        <link href="https://vlive.tv/post/0-22932913"/>
+        <updated>2021-10-07T06:11:32.028Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa 'Next Level' 음원 발매 기념 ONLINE FANMEETING EVENT 안내]]></title>
+        <id>https://vlive.tv/post/1-22933234</id>
+        <link href="https://vlive.tv/post/1-22933234"/>
+        <updated>2021-10-07T06:11:32.037Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 Next Level of aespa & MY]]></title>
+        <id>https://vlive.tv/post/1-22833282</id>
+        <link href="https://vlive.tv/post/1-22833282"/>
+        <updated>2021-10-07T06:11:32.039Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 aespa 'Black Mamba' 스페셜 안무영상 컨셉 투표 안내]]></title>
+        <id>https://vlive.tv/post/0-20723786</id>
+        <link href="https://vlive.tv/post/0-20723786"/>
+        <updated>2021-10-07T06:11:32.039Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 'Black Mamba' - 'THE SHOW' 1위 투표 안내]]></title>
+        <id>https://vlive.tv/post/1-20298706</id>
+        <link href="https://vlive.tv/post/1-20298706"/>
+        <updated>2021-10-07T06:11:32.043Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📢 ‘Black Mamba’ – 응원법 안내]]></title>
+        <id>https://vlive.tv/post/0-19994235</id>
+        <link href="https://vlive.tv/post/0-19994235"/>
+        <updated>2021-10-07T06:11:32.045Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] aespa OFFICIAL FANCLUB “MY(마이)” 모집 안내]]></title>
+        <id>https://vlive.tv/post/1-19947498</id>
+        <link href="https://vlive.tv/post/1-19947498"/>
+        <updated>2021-10-07T06:11:32.045Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] aespa OFFICIAL FANCLUB “MY(마이)” 오픈 안내]]></title>
+        <id>https://vlive.tv/post/1-19946585</id>
+        <link href="https://vlive.tv/post/1-19946585"/>
+        <updated>2021-10-07T06:11:32.045Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
+</feed>

@@ -1,154 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>aespa ─ aespa Letter</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 07:10:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[😽]]></title>
-            <link>https://www.vlive.tv/post/0-23712973</link>
-            <guid>https://www.vlive.tv/post/0-23712973</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 25]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210625_270/16246161497291PEKS_JPEG/1624615594004.jpg?type=f144x144" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔딩 타이밍 놓쳐서 고민하다가 아무것도 못한 1인]]></title>
-            <link>https://www.vlive.tv/post/1-23716702</link>
-            <guid>https://www.vlive.tv/post/1-23716702</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 25]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210625_165/16246160985992LmqT_JPEG/1624615590716.jpg?type=f144x144" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미아옹]]></title>
-            <link>https://www.vlive.tv/post/0-23712921</link>
-            <guid>https://www.vlive.tv/post/0-23712921</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 25]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210625_94/1624615838651IaIqi_JPEG/1624615586826.jpg?type=f144x144" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이들]]></title>
-            <link>https://www.vlive.tv/post/1-23716658</link>
-            <guid>https://www.vlive.tv/post/1-23716658</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앞머리촵촵]]></title>
-            <link>https://www.vlive.tv/post/0-23325379</link>
-            <guid>https://www.vlive.tv/post/0-23325379</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마이마이~]]></title>
-            <link>https://www.vlive.tv/post/1-23329767</link>
-            <guid>https://www.vlive.tv/post/1-23329767</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[💟]]></title>
-            <link>https://www.vlive.tv/post/1-23329726</link>
-            <guid>https://www.vlive.tv/post/1-23329726</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[9시아형]]></title>
-            <link>https://www.vlive.tv/post/0-23325304</link>
-            <guid>https://www.vlive.tv/post/0-23325304</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 5]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ㅁrㅇ..i....]]></title>
-            <link>https://www.vlive.tv/post/1-23280768</link>
-            <guid>https://www.vlive.tv/post/1-23280768</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경축🌟]]></title>
-            <link>https://www.vlive.tv/post/0-23276492</link>
-            <guid>https://www.vlive.tv/post/0-23276492</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[77ㅑ]]></title>
-            <link>https://www.vlive.tv/post/1-23280639</link>
-            <guid>https://www.vlive.tv/post/1-23280639</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엠카운트다운💟✨]]></title>
-            <link>https://www.vlive.tv/post/1-23280604</link>
-            <guid>https://www.vlive.tv/post/1-23280604</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Jun 3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반짝]]></title>
-            <link>https://www.vlive.tv/post/0-23197002</link>
-            <guid>https://www.vlive.tv/post/0-23197002</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Love you!]]></title>
-            <link>https://www.vlive.tv/post/1-23201737</link>
-            <guid>https://www.vlive.tv/post/1-23201737</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내다.]]></title>
-            <link>https://www.vlive.tv/post/0-23196962</link>
-            <guid>https://www.vlive.tv/post/0-23196962</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[From.닝이자식]]></title>
-            <link>https://www.vlive.tv/post/1-23201710</link>
-            <guid>https://www.vlive.tv/post/1-23201710</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마이!!!!!!!!]]></title>
-            <link>https://www.vlive.tv/post/1-23170258</link>
-            <guid>https://www.vlive.tv/post/1-23170258</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[와아아아아아아아다아ㅏ아아앙]]></title>
-            <link>https://www.vlive.tv/post/0-23165657</link>
-            <guid>https://www.vlive.tv/post/0-23165657</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마이!!! 오랜만~]]></title>
-            <link>https://www.vlive.tv/post/1-23170202</link>
-            <guid>https://www.vlive.tv/post/1-23170202</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마이~]]></title>
-            <link>https://www.vlive.tv/post/0-23165601</link>
-            <guid>https://www.vlive.tv/post/0-23165601</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[May 28]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.vlive.tv/channel/97CCED/board/7553</id>
+    <title>aespa ─ aespa Letter</title>
+    <updated>2021-10-09T07:20:33.830Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[😽]]></title>
+        <id>https://www.vlive.tv/post/0-23712973</id>
+        <link href="https://www.vlive.tv/post/0-23712973"/>
+        <updated>2021-10-07T06:12:02.204Z</updated>
+        <content type="html"><![CDATA[GISELLE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔딩 타이밍 놓쳐서 고민하다가 아무것도 못한 1인]]></title>
+        <id>https://www.vlive.tv/post/1-23716702</id>
+        <link href="https://www.vlive.tv/post/1-23716702"/>
+        <updated>2021-10-07T06:12:02.205Z</updated>
+        <content type="html"><![CDATA[WINTER]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미아옹]]></title>
+        <id>https://www.vlive.tv/post/0-23712921</id>
+        <link href="https://www.vlive.tv/post/0-23712921"/>
+        <updated>2021-10-07T06:12:02.206Z</updated>
+        <content type="html"><![CDATA[KARINA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양이들]]></title>
+        <id>https://www.vlive.tv/post/1-23716658</id>
+        <link href="https://www.vlive.tv/post/1-23716658"/>
+        <updated>2021-10-07T06:12:02.154Z</updated>
+        <content type="html"><![CDATA[NINGNING]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앞머리촵촵]]></title>
+        <id>https://www.vlive.tv/post/0-23325379</id>
+        <link href="https://www.vlive.tv/post/0-23325379"/>
+        <updated>2021-10-07T06:12:02.155Z</updated>
+        <content type="html"><![CDATA[WINTER]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이마이~]]></title>
+        <id>https://www.vlive.tv/post/1-23329767</id>
+        <link href="https://www.vlive.tv/post/1-23329767"/>
+        <updated>2021-10-07T06:12:02.159Z</updated>
+        <content type="html"><![CDATA[NINGNING]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💟]]></title>
+        <id>https://www.vlive.tv/post/1-23329726</id>
+        <link href="https://www.vlive.tv/post/1-23329726"/>
+        <updated>2021-10-07T06:12:02.159Z</updated>
+        <content type="html"><![CDATA[GISELLE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9시아형]]></title>
+        <id>https://www.vlive.tv/post/0-23325304</id>
+        <link href="https://www.vlive.tv/post/0-23325304"/>
+        <updated>2021-10-07T06:12:02.168Z</updated>
+        <content type="html"><![CDATA[KARINA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ㅁrㅇ..i....]]></title>
+        <id>https://www.vlive.tv/post/1-23280768</id>
+        <link href="https://www.vlive.tv/post/1-23280768"/>
+        <updated>2021-10-07T06:12:02.168Z</updated>
+        <content type="html"><![CDATA[KARINA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경축🌟]]></title>
+        <id>https://www.vlive.tv/post/0-23276492</id>
+        <link href="https://www.vlive.tv/post/0-23276492"/>
+        <updated>2021-10-07T06:12:02.168Z</updated>
+        <content type="html"><![CDATA[WINTER]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[77ㅑ]]></title>
+        <id>https://www.vlive.tv/post/1-23280639</id>
+        <link href="https://www.vlive.tv/post/1-23280639"/>
+        <updated>2021-10-07T06:12:02.168Z</updated>
+        <content type="html"><![CDATA[NINGNING]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엠카운트다운💟✨]]></title>
+        <id>https://www.vlive.tv/post/1-23280604</id>
+        <link href="https://www.vlive.tv/post/1-23280604"/>
+        <updated>2021-10-07T06:12:02.168Z</updated>
+        <content type="html"><![CDATA[GISELLE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반짝]]></title>
+        <id>https://www.vlive.tv/post/0-23197002</id>
+        <link href="https://www.vlive.tv/post/0-23197002"/>
+        <updated>2021-10-07T06:12:02.168Z</updated>
+        <content type="html"><![CDATA[KARINA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love you!]]></title>
+        <id>https://www.vlive.tv/post/1-23201737</id>
+        <link href="https://www.vlive.tv/post/1-23201737"/>
+        <updated>2021-10-07T06:12:02.174Z</updated>
+        <content type="html"><![CDATA[GISELLE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내다.]]></title>
+        <id>https://www.vlive.tv/post/0-23196962</id>
+        <link href="https://www.vlive.tv/post/0-23196962"/>
+        <updated>2021-10-07T06:12:02.182Z</updated>
+        <content type="html"><![CDATA[WINTER]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From.닝이자식]]></title>
+        <id>https://www.vlive.tv/post/1-23201710</id>
+        <link href="https://www.vlive.tv/post/1-23201710"/>
+        <updated>2021-10-07T06:12:02.183Z</updated>
+        <content type="html"><![CDATA[NINGNING]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이!!!!!!!!]]></title>
+        <id>https://www.vlive.tv/post/1-23170258</id>
+        <link href="https://www.vlive.tv/post/1-23170258"/>
+        <updated>2021-10-07T06:12:02.187Z</updated>
+        <content type="html"><![CDATA[NINGNING]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와아아아아아아아다아ㅏ아아앙]]></title>
+        <id>https://www.vlive.tv/post/0-23165657</id>
+        <link href="https://www.vlive.tv/post/0-23165657"/>
+        <updated>2021-10-07T06:12:02.188Z</updated>
+        <content type="html"><![CDATA[KARINA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이!!! 오랜만~]]></title>
+        <id>https://www.vlive.tv/post/1-23170202</id>
+        <link href="https://www.vlive.tv/post/1-23170202"/>
+        <updated>2021-10-07T06:12:02.189Z</updated>
+        <content type="html"><![CDATA[GISELLE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이~]]></title>
+        <id>https://www.vlive.tv/post/0-23165601</id>
+        <link href="https://www.vlive.tv/post/0-23165601"/>
+        <updated>2021-10-07T06:12:02.190Z</updated>
+        <content type="html"><![CDATA[WINTER]]></content>
+    </entry>
+</feed>
