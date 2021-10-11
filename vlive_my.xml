@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/97CCED/board/7375</id>
     <title>aespa ─ MY</title>
-    <updated>2021-10-11T14:10:09.459Z</updated>
+    <updated>2021-10-11T15:10:32.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[aespa 에스파 'Savage' The Performance Stage #1]]></title>
+        <id>https://www.vlive.tv/post/0-25888848</id>
+        <link href="https://www.vlive.tv/post/0-25888848"/>
+        <updated>2021-10-11T15:10:13.695Z</updated>
+        <content type="html"><![CDATA[Staff_aespa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aespa "Savage" Camerawork Guide for Creators]]></title>
         <id>https://www.vlive.tv/post/1-25802046</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-23328211</id>
         <link href="https://www.vlive.tv/post/1-23328211"/>
         <updated>2021-10-06T17:13:46.866Z</updated>
-        <content type="html"><![CDATA[Staff_aespa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📷 2021.06.03 #aespa #엠카운트다운 #MCOUNTDOWN]]></title>
-        <id>https://www.vlive.tv/post/0-23276233</id>
-        <link href="https://www.vlive.tv/post/0-23276233"/>
-        <updated>2021-10-06T17:13:46.867Z</updated>
         <content type="html"><![CDATA[Staff_aespa]]></content>
     </entry>
 </feed>
