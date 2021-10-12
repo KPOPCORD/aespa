@@ -4,9 +4,25 @@
         <title>SMTOWN ─ aespa</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 07:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 08:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘Savage 신드롬’ 에스파, 美 인기 토크쇼 ‘켈리 클락슨 쇼’ 16일 출격!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5511</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5511</guid>
+            <pubDate>Tue, 12 Oct 2021 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 인기 토크쇼 ‘켈리 클락슨 쇼(The Kelly Clarkson Show)’에 첫 출연한다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653e99e78a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘메타버스 걸그룹’ 에스파 첫 미니앨범 ‘Savage’, 주간 음반 차트 1위!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5505</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5505</guid>
+            <pubDate>Tue, 12 Oct 2021 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 주간 음반 차트에서도 1위를 차지했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202110/star_61653bf4c0272.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파 ‘Savage’ MV, 공개 2일 만에 5천만 뷰 돌파! 자체 기록 또 한 번 경신!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5498</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 Oct 2021 06:12:12 GMT</pubDate>
             <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속) 멤버 윈터와 닝닝이 업그레이드된 카리스마를 예고했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614c2952526aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘메타버스 걸그룹’ 에스파, 첫 미니앨범 ‘Savage’ 케이스 클립 공개 화제!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5426</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5426</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)의 첫 미니앨범 ‘Savage’(새비지) 케이스 클립이 공개되어 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_61443c5459a0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘글로벌 대세’ 에스파, 첫 미니앨범 ‘Savage’ 10월 5일 발매!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5413</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5413</guid>
-            <pubDate>Thu, 07 Oct 2021 06:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘글로벌 대세’ 에스파(aespa, 에스엠엔터테인먼트)가 10월 5일 첫 미니앨범 ‘Savage’(새비지)로 전격 컴백한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202109/star_614034c8eba49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
