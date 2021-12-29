@@ -4,9 +4,25 @@
         <title>SMTOWN ─ aespa</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 02:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘D-3’ ‘SMTOWN LIVE 2022’, 트레일러+포스터 공개 화제!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5798</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5798</guid>
+            <pubDate>Wed, 29 Dec 2021 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 3일 앞으로 다가왔다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcffc1d5c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, ‘비주얼 갓’ 모였다!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5797</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5797</guid>
+            <pubDate>Wed, 29 Dec 2021 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[SM이 새롭게 선보이는 프로젝트 유닛 GOT the beat(갓 더 비트)의 멤버별 티저 이미지가 공개되어 연일 화제다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcf2776e83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 1월 3일 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5791</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 08 Dec 2021 07:11:00 GMT</pubDate>
             <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)의 히트곡 ‘Next Level’(넥스트 레벨)이 NME가 선정한 ‘2021년 베스트 송 50’에 등극해 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b052aca6fa0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 첫 미니앨범 ‘Savage’, 美 ‘빌보드 200’ 85위로 재진입!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5705</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5705</guid>
-            <pubDate>Wed, 08 Dec 2021 05:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 첫 미니앨범 ‘Savage’(새비지)로 미국 ‘빌보드 200’ 차트에 재진입했다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b037c17169d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 美 트레버 노아의 ‘더 데일리 쇼’ 출연! 7일 방송!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5697</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5697</guid>
-            <pubDate>Mon, 06 Dec 2021 06:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[‘메타버스 걸그룹’ 에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 유명 토크쇼 ‘The Daily Show with Trevor Noah’(더 데일리 쇼 위드 트레버 노아)에 출연한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ad9e2a6e216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
