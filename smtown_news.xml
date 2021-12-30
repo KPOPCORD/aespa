@@ -4,9 +4,25 @@
         <title>SMTOWN ─ aespa</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5805</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5805</guid>
+            <pubDate>Thu, 30 Dec 2021 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’(에스엠타운 라이브 2022 : SMCU 익스프레스@광야)가 특별한 스테이지를 준비했다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd48f5cf65a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOT the beat, 신곡 ‘Step Back’으로 ‘퍼포먼스 갓’ 시너지 예고!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5804</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5804</guid>
+            <pubDate>Thu, 30 Dec 2021 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[SM 프로젝트 유닛 GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 신곡 ‘Step Back’(스텝 백)으로 ‘퍼포먼스 갓’의 면모를 보여준다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cd4878d64c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[英 NME “에스파, 3연속 히트로 올해 K팝 센세이션 일으켜”]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5799</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 15 Dec 2021 07:11:29 GMT</pubDate>
             <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 새롭게 선보이는 리메이크 곡 ‘Dreams Come True’(드림스 컴 트루) 작업기가 유튜브를 통해 공개된다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98ca457ad6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파와 보아가 만났다! 재탄생한 ‘Dreams Come True’ 20일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5725</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5725</guid>
-            <pubDate>Mon, 13 Dec 2021 05:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 리마스터링 프로젝트를 통해 S.E.S.의 히트곡 ‘Dreams Come True’(드림스 컴 트루)를 새롭게 선보인다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b6cc6ae9875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 美 ‘닉 캐논 쇼’ K팝 아티스트 첫 출연!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5722</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5722</guid>
-            <pubDate>Fri, 10 Dec 2021 12:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 미국 토크쇼 ‘The Nick Cannon Show’(더 닉 캐논 쇼)에 K팝 아티스트로는 처음으로 출연해 화제다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b33a41c2710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
