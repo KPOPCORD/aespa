@@ -4,9 +4,25 @@
         <title>SMTOWN ─ aespa</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 04:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMCU로 하나된 메타버스 콘서트 ‘SMTOWN LIVE 2022’,]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5813</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5813</guid>
+            <pubDate>Mon, 03 Jan 2022 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 새해 첫날 전 세계 ‘안방 1열’을 뜨겁게 달구며 성공적으로 막을 내렸다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d2865c5716f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘SMTOWN LIVE 2022’ D-DAY! 기대 포인트 3]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5811</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5811</guid>
+            <pubDate>Mon, 03 Jan 2022 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[1일 오후 1시부터 전 세계 무료 온라인 중계되는 ‘SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA’가 특급 라인업으로 열기를 고조시키고 있는 가운데, 이번 콘서트의 기대 포인트를 짚어봤다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61d284ec7a2b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘SMTOWN LIVE 2022’, GOT the beat→최강창민 신곡 무대 최초 공개!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5805</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 20 Dec 2021 06:13:37 GMT</pubDate>
             <content:encoded><![CDATA[NCT와 에스파, DJ 레이든, 긴조, 임레이(에스엠엔터테인먼트 소속)이 ‘SMTOWN 2022’ 라인업에 합류했다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c011e56b8c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 ‘Dreams Come True’ 음원+MV 20일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5757</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5757</guid>
-            <pubDate>Mon, 20 Dec 2021 06:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엠터테인먼트 소속)가 새롭게 선보이는 ‘Dreams Come True’(드림스 컴 트루)가 20일 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c0114077e0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파 ‘Dreams Come True’, 유튜브 오리지널 콘텐츠 23일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5739</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5739</guid>
-            <pubDate>Wed, 15 Dec 2021 07:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[에스파(aespa, 에스엠엔터테인먼트 소속)가 새롭게 선보이는 리메이크 곡 ‘Dreams Come True’(드림스 컴 트루) 작업기가 유튜브를 통해 공개된다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61b98ca457ad6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
