@@ -4,9 +4,25 @@
         <title>SMTOWN ─ aespa</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMTOWN 겨울앨범 가온 앨범차트 1위! SM 넘사벽 브랜드 파워 입증!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5911</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5911</guid>
+            <pubDate>Thu, 27 Jan 2022 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘2021 Winter SMTOWN : SMCU EXPRESS’(2021 윈터 에스엠타운 : SMCU 익스프레스)가 가온차트 정상에 올랐다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f223563552a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘퍼포먼스 갓’ GOT the beat, 스페셜 무대 공개 D-DAY!]]></title>
+            <link>https://www.smtown.com/artist/newsDetail/5910</link>
+            <guid>https://www.smtown.com/artist/newsDetail/5910</guid>
+            <pubDate>Thu, 27 Jan 2022 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘퍼포먼스 갓’ GOT the beat(갓 더 비트, 에스엠엔터테인먼트 소속)가 드디어 27일 ‘엠카운트다운’에서 스페셜 무대를 선보인다.]]></content:encoded>
+            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202201/star_61f221e8824bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계 179개 지역 5100만 스트리밍 기록한 화제의 온라인 콘서트 ‘SMTOWN LIVE 2022’ 다시 만난다!]]></title>
             <link>https://www.smtown.com/artist/newsDetail/5894</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 29 Dec 2021 03:10:57 GMT</pubDate>
             <content:encoded><![CDATA[SM이 새롭게 선보이는 프로젝트 유닛 GOT the beat(갓 더 비트)의 멤버별 티저 이미지가 공개되어 연일 화제다.]]></content:encoded>
             <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61cbcf2776e83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 新 프로젝트 유닛 GOT the beat, 신곡 ‘Step Back’ 1월 3일 공개!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5791</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5791</guid>
-            <pubDate>Tue, 28 Dec 2021 06:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)의 새로운 프로젝트 유닛 GOT the beat(갓 더 비트)가 신곡 ‘Step Back’(스텝 백)으로 강렬한 에너지를 선사한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61ca9d726845c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM Girls Assemble!]]></title>
-            <link>https://www.smtown.com/artist/newsDetail/5787</link>
-            <guid>https://www.smtown.com/artist/newsDetail/5787</guid>
-            <pubDate>Mon, 27 Dec 2021 04:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM)가 새로운 프로젝트 ‘Girls On Top(GOT)’(걸스 온 탑)을 시작한다.]]></content:encoded>
-            <enclosure url="https://smcdn.smtown.com/file/newsfeed/202112/star_61c93b9e890eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
